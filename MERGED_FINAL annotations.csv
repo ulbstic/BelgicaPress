@@ -1,0 +1,859 @@
+unique_id_match,toponymName,fclName,commune,province,region,country,MATCH,types_Anne,types_Ettore
+22-650707-rommel,,,,,,,rommel,per,per
+85-652941-carette,,,,,,,carette,per,per
+85-652941-leuven,,,,,,,leuven,loc,loc
+95-652941-leuven,Leuven,Commune,Leuven,Flemish Brabant Province,Flanders,Belgium,leuven,loc,loc
+161-654375-guillemin,,,,,,,guillemin,per,per
+161-654375-gombert,,,,,,,gombert,per,per
+161-654375-bruxelles,,,,,,,bruxelles,loc,loc
+469-661619-guillemin,,,,,,,guillemin,per,per
+502-662107-de smet,,,,,,,de smet,per,per
+618-662611-pierre victor guillemin,,,,,,,pierre victor guillemin,per,per
+642-662695-bosco,,,,,,,bosco,per,per
+668-663509-rachez,,,,,,,rachez,per,per
+755-663658-cantillon,,,,,,,cantillon,per,per
+755-663658-lembecq,,,,,,,lembecq,loc,loc
+789-664728-fishlin,,,,,,,fishlin,per_ambig,per_ambig
+825-665744-bruxelles,,,,,,,bruxelles,loc,loc
+921-667762-charles bernard,,,,,,,charles bernard,per,per
+939-668536-baelen,,,,,,,baelen,per,per
+1017-670263-mies van der rohe,,,,,,,mies van der rohe,per,per
+1182-674942-malpertuis,,,,,,Netherlands,malpertuis,loc,loc
+1218-675792-gambon,,,,,,,gambon,per,per
+1220-675792-lemaitre,,,,,,,lemaitre,per,per
+1359-679543-botaine,,,,,,,botaine,ambig,ambig
+1550-684323-atwerpen,Antwerpen,Commune,Antwerpen,Antwerpen,Flanders,Belgium,atwerpen,loc,loc
+1595-686387-gysegem,,,,,,,gysegem,per,per
+1641-687149-marville,,,,,,France,marville,per,per
+1771-690549-pelzer,,,,,,,pelzer,per_loc,per_loc
+1841-692698-jeanne romain,,,,,,,jeanne romain,per,per
+1841-692698-albert dassy,,,,,,,albert dassy,per,per
+1869-693264-delovere,,,,,,,delovere,per,per
+1993-697725-cordelois,,,,,,,cordelois,per,ambig
+2047-698434-cornil station,,,,,,,cornil station,loc,loc
+2047-698434-charleroi,,,,,,,charleroi,loc,loc
+2116-701067-libot,,,,,,,libot,per,per
+2194-702815-isidoor,,,,,,,isidoor,per,per
+2362-708006-peltier,,,,,,,peltier,per,per
+2372-708451-van glabbeek,,,,,,,van glabbeek,per,per
+2375-708628-dexter,,,,,,,dexter,per,per
+2546-714246-thonon xavier,,,,,,,thonon xavier,per,per
+2794-722945-charles lamquet,,,,,,,charles lamquet,per,per
+2794-722945-jambes,,,,,,,jambes,loc,loc
+2832-725615-curer bell,,,,,,,curer bell,per,per
+3099-735376-havré,Havré,Section,Mons,Hainaut Province,Wallonia,Belgium,havré,loc,loc
+,,,,,,,,per,per
+3260-740248-liezele,Liezele,Section,Puurs,Antwerpen,Flanders,Belgium,liezele,loc,loc
+3388-746195-dhuy,,Section,,,,Belgium,dhuy,loc,loc
+3540-752815-sohie,,,,,,,sohie,per,per
+3541-752964-sweron,,,,,,,sweron,per,per
+3848-769048-werbrouck,,,,,,,werbrouck,per,per
+4020-774704-jalhay,Jalhay,Commune,Jalhay,Liège Province,Wallonia,Belgium,jalhay,loc,loc
+4031-775116-louis nieter,,,,,,,louis nieter,per,per
+4136-781498-herzele,Herzele,Commune,Herzele,East Flanders Province,Flanders,Belgium,herzele,loc,loc
+4136-781498-duiven,,,,,,,duiven,loc,loc
+4188-783164-paternotre,,,,,,,paternotre,per,per
+4249-784034-azem,,,,,,,azem,per_loc,per_loc
+4342-787499-ronveaux léon,,,,,,,ronveaux léon,per,per
+4426-791068-nauwelaers,,,,,,,nauwelaers,per,per
+4426-791068-duffel,,,,,,,duffel,loc,loc
+4456-792058-kurth,,,,,,,kurth,per,per
+4527-795470-quaregnon,Quaregnon,Commune,Quaregnon,Hainaut Province,Wallonia,Belgium,quaregnon,loc,loc
+4612-799374-tielemans,,,,,,,tielemans,per,per
+4612-799374-laarne,,,,,,,laarne,loc,loc
+4713-803670-cava tirreni,,,,,,Italy,cava tirreni,loc,loc
+4752-805839-lode tallon,,,,,,,lode tallon,per,per
+4772-806204-verrebroeck,Verrebroek,Section,Beveren,East Flanders Province,Flanders,Belgium,verrebroeck,loc,loc
+4826-807658-frantz wittouck,,,,,,,frantz wittouck,per,per
+4908-809880-namur,Namur,Commune,Namur,Namur Province,Wallonia,Belgium,namur,loc,loc
+5451-830608-hyfte,,,,,,,hyfte,per,per
+5451-830608-mariakerke,,,,,,,mariakerke,loc,loc
+5532-833305-verweyen,,,,,,,verweyen,per,per
+5838-842762-haas,,,,,,,haas,per,per
+5838-842762-jette,,,,,,,jette,loc,loc
+5862-842849-boutelkin,,,,,,,boutelkin,per_ambig,per_ambig
+5863-842849-boutelkine,,,,,,,boutelkine,per_ambig,per_ambig
+6287-855104-watervliet,Watervliet,Section,Sint-Laureins,East Flanders Province,Flanders,Belgium,watervliet,loc,loc
+6320-856245-londerzeel,Londerzeel,Commune,Londerzeel,Flemish Brabant Province,Flanders,Belgium,londerzeel,loc,loc
+6338-856474-joris,,,,,,,joris,per,per
+6370-857860-harlez,,,,,,,harlez,per,per
+6442-859442-sohu,,,,,,,sohu,per,per
+6626-866898-melle,Melle,Commune,Melle,East Flanders Province,Flanders,Belgium,melle,loc,loc
+6742-869492-liège,Liège,Commune,Liège,Liège Province,Wallonia,Belgium,liège,loc,loc
+6914-875401-rogier,,,,,,,rogier,per,per
+6926-875706-reding,,,,,,,reding,per,per
+6989-876918-leclercq abel,,,,,,,leclercq abel,per,per
+6989-876918-senzeille,,,,,,,senzeille,loc,loc
+7060-878964-steenberghs,,,,,,,steenberghs,per,per
+7504-892662-ravestein esther,,,,,,,ravestein esther,per,per
+7524-893008-templeuve,Templeuve,Section,Tournai,Hainaut Province,Wallonia,Belgium,templeuve,loc,loc
+7581-893859-leopold van den neste,,,,,,,leopold van den neste,per,per
+7586-893859-mathilde dumalin,,,,,,,mathilde dumalin,per,per
+7597-893933-keihem,,,,,,,keihem,per_loc,per_loc
+7642-894610-graauwmans,,,,,,,graauwmans,per,per
+7658-894764-jozef kockx,,,,,,,jozef kockx,per,per
+7777-898669-bibliothèque royale,,POI,Brussels,Brussels Capital,Brussels Capital,Belgium,bibliothèque royale,loc,loc
+7812-899489-adolphe strimel,,,,,,,adolphe strimel,per,per
+7961-905401-schneeweiss,,,,,,,schneeweiss,per,per
+8066-910080-meulemaekershoef,,,,,,,meulemaekershoef,loc,loc
+8136-914250-ghilain,,,,,,,ghilain,per,per
+8163-916114-fayat,,,,,,,fayat,per_ambig,per_ambig
+8234-918859-rumst,Rumst,Commune,Rumst,Antwerpen,Flanders,Belgium,rumst,loc,loc
+8628-941874-gill,,,,,,,gill,per_ambig,per_ambig
+8734-948076-constant le boucher,,,,,,,constant le boucher,per,per
+8811-949149-hever,Hever,Section,Boortmeerbeek,Flemish Brabant Province,Flanders,Belgium,hever,loc,loc
+9008-958536-bartels,,,,,,,bartels,per,per
+9267-966877-j. bertrand,,,,,,,j. bertrand,per,per
+9314-967905-kripp hermann,,,,,,,kripp hermann,per,per
+9324-968123-armand bivort,,,,,,,armand bivort,per,per
+9475-971864-hasselt,Hasselt,Commune,Hasselt,Limburg Province,Flanders,Belgium,hasselt,loc,loc
+9575-974284-victor polet,,,,,,,victor polet,per,per
+9781-979513-angelica hauff,,,,,,,angelica hauff,per,per
+9896-981701-brand,,,,,,,brand,per,per
+9896-981701-halle,,,,,,,halle,loc,loc
+9897-981701-brand,,,,,,,brand,per_loc,per_loc
+9897-981701-halle,,,,,,,halle,loc,loc
+9947-982840-meyer,,,,,,,meyer,per,per
+9947-982840-huysmans,,,,,,,huysmans,per,per
+10436-995215-voghelaere,,,,,,,voghelaere,per,per
+10615-998199-jacques isaac,,,,,,,jacques isaac,per,per
+10713-1001085-levaillant,,,,,,,levaillant,per,per
+10854-1005884-lambeaux,,POI,,,,Belgium,lambeaux,loc,per
+10854-1005884-horta,,,,,,,horta,loc,per
+10916-1008736-hoeylaert,Hoeilaart,Commune,Hoeilaart,Flemish Brabant Province,Flanders,Belgium,hoeylaert,loc,loc
+11002-1011709-watervliet,,,,,,,watervliet,loc,loc
+11009-1012023-windelinckx,,,,,,,windelinckx,per,per
+11046-1013142-charles michel,,,,,,,charles michel,per,per
+11161-1015222-emile storms,,,,,,,emile storms,per,per
+11228-1016570-ramakers,,,,,,,ramakers,per,per
+11228-1016570-geleen,,,,,,,geleen,loc,loc
+11456-1022116-lequarré,,,,,,,lequarré,per,per
+11458-1022135-charles simon,,,,,,,charles simon,per,per
+11656-1029495-crowther,,,,,,,crowther,per,per
+11746-1031997-devi dja,,,,,,,devi dja,per,per
+11953-1039499-emile jacques,,,,,,,emile jacques,per,per
+12259-1048213-ukkel,Uccle,Section,Ukkel,Bruxelles-Capitale,Brussels Capital,Belgium,ukkel,loc,loc
+12384-1051793-joly,,,,,,,joly,per,per
+12425-1052883-musée castan,,POI,Brussels,Brussels Capital,Brussels Capital,Belgium,musée castan,loc,loc
+12603-1056474-comte de chiny,,,,,,,comte de chiny,per,per
+12653-1059033-attenrode,Attenrode,Section,Glabbeek,Flemish Brabant Province,Flanders,Belgium,attenrode,loc,loc
+12961-1067797-capellani,,,,,,,capellani,per,per
+12968-1067986-schepper,,,,,,,schepper,per,per
+13020-1069243-alphene,,,,,,,alphene,per_ambig,per_ambig
+13135-1070897-andres,,,,,,,andres,per,per
+13177-1071862-de hollain,De Plain,Section,Tessenderlo,Limburg Province,Flanders,Belgium,de hollain,per_loc,loc
+13317-1077010-peugeot,,,,,,,peugeot,per,per
+13400-1078926-camille pivont,,,,,,,camille pivont,per,per
+13545-1081921-charles michel,,,,,,,charles michel,per,per
+13550-1081921-michel,,,,,,,michel,per,per
+13630-1082620-laura turner,,,,,,,laura turner,per,per
+13659-1083556-veughels,,,,,,,veughels,per,per
+14202-1099675-munsterbilsen,Munsterbilzen,Section,Bilzen,Limburg Province,Flanders,Belgium,munsterbilsen,loc,loc
+14227-1100810-oisin,,,,,,,oisin,per,per
+14381-1106286-beaujour,,,,,,,beaujour,per,per
+14413-1107651-antwerpen,Antwerpen,Commune,Antwerpen,Antwerpen,Flanders,Belgium,antwerpen,loc,loc
+14426-1108375-wraycastle,,,,,,United Kingdom,wraycastle,loc,loc
+14754-1116774-devreese,,,,,,,devreese,per,per
+14911-1120534-henri spiegels,,,,,,,henri spiegels,per,per
+15287-1130993-de tyberchamps,,,,,,,de tyberchamps,per,per
+15303-1131277-roux-miroir,Roux-Miroir,Section,Incourt,Walloon Brabant Province,Wallonia,Belgium,roux-miroir,loc,loc
+15312-1131530-court-au-bois,Coron du bois,Section,Saint-Ghislain,Hainaut Province,Wallonia,Belgium,court-au-bois,loc,loc
+15330-1131718-berchem,Berchem,Section,Antwerpen,Antwerpen,Flanders,Belgium,berchem,loc,loc
+15591-1138580-schrauwen,,,,,,,schrauwen,per,per
+15705-1142398-verhaest,,,,,,,verhaest,per,per
+15745-1143981-stievenard,,,,,,,stievenard,per,per
+15983-1150744-la hestre,La Hestre,Section,Manage,Hainaut Province,Wallonia,Belgium,la hestre,loc,loc
+16042-1152793-lappeman,,,,,,,lappeman,per,per
+16356-1160951-malpertuis,,,,,,Netherlands,malpertuis,loc,loc
+16385-1161576-levison,,,,,,,levison,per,per
+16434-1162069-michaux,,,,,,,michaux,per,per
+16434-1162069-platteborse,,,,,,,platteborse,per,per
+16480-1163138-becker,,,,,,,becker,per,per
+16583-1167185-valcourt,,,,,,,valcourt,per_loc,per_loc
+16720-1171616-canter,,,,,,,canter,per,per
+16728-1171723-brasserie ziane,,,,,,,brasserie ziane,loc,loc
+16739-1172025-ewald,,,,,,,ewald,per,per
+16792-1173900-gleich,,,,,,,gleich,per,per
+17002-1179819-leopold deurne,,,,,,,leopold deurne,per,per_loc
+17390-1197727-poepaert,,,,,,,poepaert,per_ambig,per
+17446-1199515-alphonse druart,,,,,,,alphonse druart,per,per
+17510-1201421-champy,,,,,,,champy,per,per
+17994-1215903-hygiea,,,,,,,hygiea,ambig,ambig
+18011-1216504-deinze,Deinze,Commune,Deinze,East Flanders Province,Flanders,Belgium,deinze,per_loc,loc
+18104-1220034-dominique navez,,,,,,,dominique navez,per,per
+18417-1228308-karel,,,,,,,karel,per,per
+18417-1228308-wijnendaele,,,,,,,wijnendaele,loc,loc
+18586-1233494-theatre delaux,,POI,,,,Belgium,theatre delaux,loc,loc
+18666-1235525-ahlenius,,,,,,,ahlenius,per,per
+18863-1241412-aalter,Aalter,Commune,Aalter,East Flanders Province,Flanders,Belgium,aalter,loc,loc
+18863-1241412-loveld,,,,,,,loveld,per,per_ambig
+,,,,,,,,per,
+18985-1244239-van thillo,,,,,,,van thillo,per,per
+19009-1245175-aalter,Aalter,Commune,Aalter,East Flanders Province,Flanders,Belgium,aalter,loc,loc
+19055-1246664-soltau,,,,,,Germany,soltau,loc,loc
+19063-1247019-lurkin,,,,,,,lurkin,per,per
+19121-1248675-ostlund,,,,,,,ostlund,per,per
+19232-1251836-gentbrugge,Gentbrugge,Section,Gent,East Flanders Province,Flanders,Belgium,gentbrugge,loc,loc
+19613-1261188-evola,,,,,,,evola,per,per
+19656-1263094-hubert collin,,,,,,,hubert collin,per,per
+19717-1263979-licot,,,,,,,licot,ambig,ambig
+19857-1267359-luyten,,,,,,,luyten,per,per
+19919-1270521-boma,,,,,,Democratic Republic of the Congo,boma,loc,loc
+20316-1284536-la scala,,,,,,Italy,la scala,loc,loc
+20641-1294080-assenede,Assenede,Commune,Assenede,East Flanders Province,Flanders,Belgium,assenede,loc,loc
+20732-1297716-moorslede,Moorslede,Commune,Moorslede,West Flanders Province,Flanders,Belgium,moorslede,loc,loc
+20737-1297964-lodewijk van biesbroeck,,,,,,,lodewijk van biesbroeck,per,per
+20896-1310416-auguste marie léon bogaert,,,,,,,auguste marie léon bogaert,per,per
+20901-1310493-hultberg,,,,,,,hultberg,per,per
+21013-1313909-van den eynden,,,,,,,van den eynden,per,per
+21146-1317304-karlstrom,,,,,,,karlstrom,per,per
+21146-1317304-congo,,,,,,,congo,loc,loc
+21203-1318517-leuvenvolksplein,,POI,Leuven,Vlaams Brabant,Flanders,Belgium,leuvenvolksplein,loc,loc
+21468-1328125-fleurus,Fleurus,Commune,Fleurus,Hainaut Province,Wallonia,Belgium,fleurus,loc,loc
+21479-1328327-rhodes,,,,,,Greece,rhodes,loc,loc
+21479-1328327-chamberlain,,,,,,,chamberlain,per,per
+21503-1328992-saint-pol-roux,,,,,,,saint-pol-roux,per,per
+21939-1345799-margate,,,,,,United Kingdom,margate,loc,loc
+21969-1347759-rumst,Rumst,Commune,Rumst,Antwerpen,Flanders,Belgium,rumst,loc,loc
+21969-1347759-dijle,,,,,,,dijle,loc,loc
+21987-1349056-wallius,,,,,,,wallius,per,per
+22102-1354624-berthem,Bertem,Commune,Bertem,Flemish Brabant Province,Flanders,Belgium,berthem,loc,loc
+22154-1356685-bourquin,,,,,,,bourquin,per,per
+22179-1357490-de smet,,,,,,,de smet,per,per
+22179-1357490-serskamp,,,,,,,serskamp,loc,loc
+22278-1360963-auguste joly,,,,,,,auguste joly,per,per
+22461-1370542-gheeraerdts,,,,,,,gheeraerdts,per,per
+22839-1384342-tombek,,,,,,?,tombek,loc,per_ambig
+22884-1385992-cureghem,Cureghem,Section,Anderlecht,Hainaut Province,Wallonia,Belgium,cureghem,loc,loc
+22895-1386008-godefroy louise,,,,,,,godefroy louise,per,per
+23299-1395903-steyaert,,,,,,,steyaert,per,per
+23299-1395903-ichteghem,,,,,,,ichteghem,loc,loc
+23493-1398590-fernand servais,,,,,,,fernand servais,per,per
+23681-1404656-lippens,,,,,,,lippens,per,per
+23681-1404656-bruyne,,,,,,,bruyne,per,per
+23686-1405004-dutalis,,,,,,,dutalis,per,per
+23886-1411216-gylden,,,,,,,gylden,per,per_ambig
+23907-1411935-gylden,,,,,,,gylden,per,per_ambig
+23910-1411935-wavre,Wavre,Commune,Wavre,Walloon Brabant Province,Wallonia,Belgium,wavre,loc,loc
+24096-1416806-anvers,,,,,,France,anvers,loc,loc
+24209-1419902-ceysens jules,,,,,,,ceysens jules,per,per
+24229-1420305-derville,,,,,,,derville,per,per
+24229-1420305-couillet,,,,,,,couillet,loc,loc
+24495-1426246-wietersheim,,,,,,Germany,wietersheim,loc,loc
+24622-1430906-jerry darnelle,,,,,,,jerry darnelle,per,per
+24702-1434592-guignies,Guignies,Section,Celles,Hainaut Province,Wallonia,Belgium,guignies,loc,loc
+24836-1438334-alberic dons,,,,,,,alberic dons,per,per
+24939-1439726-edouard agneessens,,,,,,,edouard agneessens,per,per
+24960-1440475-eulenburg,,,,,,,eulenburg,per,per
+25345-1457549-cedergren,,,,,,,cedergren,per,per
+25531-1463643-negri belloni,,,,,,,negri belloni,per,per
+25561-1463985-jacob salomon,,,,,,,jacob salomon,per,per
+25564-1463985-simon rosenthal,,,,,,,simon rosenthal,per,per
+25638-1465505-huysmans,,,,,,,huysmans,per,per
+25674-1466669-verschaffelt,,,,,,,verschaffelt,per,per
+25939-1478406-smet,,,,,,,smet,per,per
+25939-1478406-tamise,,,,,,,tamise,loc,loc
+26021-1480093-seloignes,Seloignes,Section,Momignies,Hainaut Province,Wallonia,Belgium,seloignes,loc,loc
+26080-1481244-lommel,Lommel,Commune,Lommel,Limburg Province,Flanders,Belgium,lommel,loc,loc
+26233-1485189-bleharies,Bléharies,Section,Celles,Hainaut Province,Wallonia,Belgium,bleharies,loc,loc
+26335-1487793-cador,,,,,,,cador,per,per
+26335-1487793-charleroi,,,,,,,charleroi,loc,loc
+26353-1488263-mechelen,,,,,,Netherlands,mechelen,loc,loc
+26444-1492661-sundberg,,,,,,,sundberg,per,per
+26444-1492661-congo,,,,,,,congo,loc,loc
+26629-1498206-soumoy,,,,,,,soumoy,per,per
+26699-1501354-oost-eeklo,Oosteeklo,Section,Assenede,East Flanders Province,Flanders,Belgium,oost-eeklo,loc,loc
+26699-1501354-oost-eeklo,Oosteeklo,Section,Assenede,East Flanders Province,Flanders,Belgium,oost-eeklo,loc,loc
+26699-1501354-oost-eeclo,,,,,,,oost-eeclo,loc,loc
+26699-1501354-oost-eeclo,,,,,,,oost-eeclo,loc,loc
+26699-1501354-oost-eecloo,,,,,,,oost-eecloo,loc,loc
+26699-1501354-oost-eecloo,,,,,,,oost-eecloo,loc,loc
+26831-1508882-kirsch,,,,,,,kirsch,per,per
+26840-1509068-vergauwen,,,,,,,vergauwen,per,per
+26858-1509424-vrasene,Vrasene,Section,Beveren,East Flanders Province,Flanders,Belgium,vrasene,loc,loc
+26930-1512150-swerts,,,,,,,swerts,per,per
+26930-1512150-tessenderl,,,,,,,tessenderl,loc,loc
+27021-1516383-commadant soleil,,,,,,,commadant soleil,per,per
+27355-1525318-leopold iii,,,,,,,leopold iii,per,per
+27361-1525475-xavier debouge,,,,,,,xavier debouge,per,per
+27757-1536141-jules simon,,,,,,,jules simon,per,per
+27757-1536141-charles hugo,,,,,,,charles hugo,per,per
+27777-1537217-ysaye,,,,,,,ysaye,per,per
+28020-1545481-pole nord,,,,,,Continent,pole nord,loc,loc
+28205-1549989-geleeds,,,,,,,geleeds,per,per_ambig
+28304-1556748-neeckx,,,,,,,neeckx,per,per
+28352-1558172-van de boogaert,,,,,,,van de boogaert,per,per
+28542-1564501-borren,,,,,,,borren,per,per
+28575-1565878-chapelle a la lice,Chapelle-à-Wattines,Section,Leuze-en-Hainaut,Hainaut Province,Wallonia,Belgium,chapelle a la lice,loc,loc
+28581-1565898-sempst,Zemst,Commune,Zemst,Flemish Brabant Province,Flanders,Belgium,sempst,loc,loc
+28644-1567633-antoine swisser,,,,,,,antoine swisser,per,per
+28657-1567633-schaerbeek,Schaerbeek,Section,Schaarbeek,Bruxelles-Capitale,Brussels Capital,Belgium,schaerbeek,loc,loc
+28657-1567633-meyers,,,,,,,meyers,per,per
+28691-1568070-caters,,,,,,,caters,per,per_ambig
+28840-1571001-kjelstrup,,,,,,,kjelstrup,per,per
+29215-1581678-armen ohanian,,,,,,,armen ohanian,per,per
+29580-1590181-gieseking,,,,,,,gieseking,per,per
+29675-1590593-ysaye,,,,,,,ysaye,per,per
+29842-1592950-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+29916-1593431-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+29916-1593431-leopold ii,,,,,,,leopold ii,per,per
+30068-1597358-de seille,,,,,,,de seille,per,per
+30214-1601749-johannes van der ven,,,,,,,johannes van der ven,per,per
+30430-1608551-zedelgem,Zedelgem,Commune,Zedelgem,West Flanders Province,Flanders,Belgium,zedelgem,loc,loc
+30511-1611245-toots gilde,,,,,,,toots gilde,,per_ambig
+30642-1613949-libotte,,,,,,,libotte,per,per
+30712-1615148-salkin,,,,,,,salkin,per,per
+30755-1616647-henri conscience,,,,,,,henri conscience,per,per
+30783-1616724-ledrut,,,,,,,ledrut,per,per
+30783-1616724-schrader,,,,,,,schrader,per,per
+31049-1621886-béliard fletcher,,,,,,,béliard fletcher,per,per
+31326-1631308-lyon,,,,,,France,lyon,loc,loc
+31326-1631308-haverland,,,,,,,haverland,per,per_loc
+31510-1636974-diels,,,,,,,diels,per,per
+31555-1637808-alphonse landa,,,,,,,alphonse landa,per,per
+,,,,,,,,loc,loc
+31841-1644491-tourguenief,,,,,,,tourguenief,per,per
+31847-1644522-gerlache,,,,,,,gerlache,per,per
+32028-1650072-allard,,,,,,,allard,per,per
+32028-1650072-bruxelles,,,,,,,bruxelles,loc,loc
+32144-1652801-moerkerke,Moerkerke,Section,Damme,West Flanders Province,Flanders,Belgium,moerkerke,loc,loc
+32504-1659257-ferrer,,,,,,,ferrer,per,per
+32639-1662194-notarbartolo,,,,,,,notarbartolo,per,per
+32694-1664020-ghiot,,,,,,,ghiot,per,per
+32711-1664152-nelis,,,,,,,nelis,per,per
+32711-1664152-ans,,,,,,,ans,loc,loc
+32937-1669601-lombroso,,,,,,,lombroso,per,per
+33140-1677514-beveren,Beveren,Commune,Beveren,East Flanders Province,Flanders,Belgium,beveren,loc,loc
+33152-1677621-gustave roth,,,,,,,gustave roth,per,per
+33493-1688195-soumoy,,,,,,,soumoy,per,per
+33493-1688195-nelis,,,,,,,nelis,per,per
+33493-1688195-lebon,,,,,,,lebon,per,per
+33570-1690370-augustin de ley,,,,,,,augustin de ley,per,per
+33631-1691810-straus,,,,,,,straus,per,per
+33631-1691810-liège,,,,,,,liège,loc,loc
+34230-1709983-sohie,,,,,,,sohie,per,per
+34236-1710313-geenkens,,,,,,,geenkens,per,per
+34265-1710753-fadeux,,,,,,,fadeux,per,per
+34449-1716459-haelen,,,,,,Netherlands,haelen,loc,loc
+34470-1716713-marguerite martinon,,,,,,,marguerite martinon,per,per
+34616-1721025-thibault,,,,,,,thibault,per,per
+34674-1722785-van aerschoot,,,,,,,van aerschoot,per,per
+34680-1722943-degueldre,,,,,,,degueldre,per,per
+34710-1724205-moltke,,,,,,,moltke,per,per
+34710-1724205-eulenburg,,,,,,,eulenburg,per,per
+34969-1731889-plasky,,,,,,,plasky,per_loc,per_loc
+35697-1759207-vansymaes,,,,,,,vansymaes,per,per
+35759-1763068-leuven,Leuven,Commune,Leuven,Flemish Brabant Province,Flanders,Belgium,leuven,loc,loc
+35759-1763068-louvain,,,,,,,louvain,loc,loc
+35907-1766891-mery,,,,,,,mery,per,per
+36021-1771546-valparaiso,,,,,,Chile,valparaiso,loc,loc
+36051-1772604-maghnia,,,,,,Algeria,maghnia,per,loc
+36058-1772659-nouvelle zemble,,,,,,Russia,nouvelle zemble,loc,loc
+36387-1786151-maria debouche,,,,,,,maria debouche,per,per
+36413-1786604-bolsée,,,,,,,bolsée,per,per
+36423-1786627-de greef,,,,,,,de greef,per,per
+36530-1788201-placlet,,,,,,,placlet,per,per
+36544-1788355-dubois,,,,,,,dubois,per,per
+36544-1788355-ixelles,,,,,,,ixelles,loc,loc
+36638-1789504-hespel,,,,,,,hespel,per,per
+36655-1789894-dehasse,,,,,,,dehasse,per,per
+36725-1791499-dohet,,,,,,,dohet,per,per
+36887-1795390-callier,,,,,,,callier,ambig,ambig
+37014-1798143-la hestre,La Hestre,Section,Manage,Hainaut Province,Wallonia,Belgium,la hestre,loc,loc
+37024-1798143-dejaiffe,,,,,,,dejaiffe,per,per
+37045-1798172-gillion,,,,,,,gillion,per,per
+37045-1798172-tardenois,,,,,,,tardenois,loc,loc
+37056-1798172-gillion pierre,,,,,,,gillion pierre,per,per
+37171-1801257-baisy-thy,Baisy-Thy,Section,Genappe,Walloon Brabant Province,Wallonia,Belgium,baisy-thy,loc,loc
+37498-1808229-waver,Wavre,Commune,Wavre,Walloon Brabant Province,Wallonia,Belgium,waver,loc,loc
+37498-1808229-brabant,,,,,,,brabant,loc,loc
+37527-1808838-aubly sidonie,,,,,,,aubly sidonie,per,per
+37555-1809261-hingene,Hingene,Section,Bornem,Antwerpen,Flanders,Belgium,hingene,loc,loc
+37608-1810460-tempels,,,,,,,tempels,per,per
+37868-1818555-gillion,,,,,,,gillion,per,per
+37868-1818555-bronchain,,,,,,,bronchain,per,per
+38058-1824292-gembloux,Gembloux,Commune,Gembloux,Namur Province,Wallonia,Belgium,gembloux,loc,loc
+38076-1824643-thieu,Thieu,Section,Le Roeulx,Hainaut Province,Wallonia,Belgium,thieu,per_loc,per_loc
+38133-1826079-auguste archangel,,,,,,,auguste archangel,per,per
+38276-1828793-louis dierick,,,,,,,louis dierick,per,per
+38276-1828793-nevele,,,,,,,nevele,loc,loc
+38572-1833459-la hulpe,,Commune,,,,Belgique,la hulpe,loc,loc
+38660-1835832-charles vander stappen,,,,,,,charles vander stappen,per,per
+38866-1840818-alderson,,,,,,,alderson,per,per
+38870-1840851-josquin,,,,,,,josquin,per,per
+38894-1841258-alhenius,,,,,,,alhenius,per,per
+38894-1841258-congo,,,,,,,congo,loc,loc
+38896-1841258-eklund,,,,,,,eklund,per,per
+38896-1841258-congo,,,,,,,congo,loc,loc
+38904-1841363-edgar poe,,,,,,,edgar poe,per,per
+38918-1841739-jansson,,,,,,,jansson,per,per
+38918-1841739-congo,,,,,,,congo,loc,loc
+39072-1846919-delbeke,,,,,,,delbeke,per,per
+39211-1853290-schaerbeek,Schaerbeek,Section,Schaarbeek,Bruxelles-Capitale,Brussels Capital,Belgium,schaerbeek,loc,loc
+39390-1860005-camille lemonnier,,,,,,,camille lemonnier,per,per
+39542-1864609-kamp soltau,,,,,,Germany,kamp soltau,loc,loc
+39563-1865626-brasserie chasse royale,,,,,,,brasserie chasse royale,loc,loc
+39645-1867218-debrauwere,,,,,,,debrauwere,per,per
+39664-1868084-delaby,,,,,,,delaby,per,per
+39675-1868148-retsin,,,,,,,retsin,per,per
+39729-1869024-malines,Mechelen,Commune,Mechelen,Antwerpen,Flanders,Belgium,malines,loc,loc
+39837-1872385-italië,,,,,,Italy,italië,loc,loc
+39856-1873191-dubray,,,,,,,dubray,per,per
+39986-1877235-lessines,Lessines,Commune,Lessines,Hainaut Province,Wallonia,Belgium,lessines,loc,loc
+40061-1879743-waermaerde,Waarmaarde,Section,Avelgem,West Flanders Province,Flanders,Belgium,waermaerde,loc,loc
+40081-1880203-van loo prosper,,,,,,,van loo prosper,per,per
+40139-1882237-storrer,,,,,,,storrer,per,per
+40206-1885149-konstantinovka,,,,,,Ukraine,konstantinovka,per,loc
+40223-1885787-santourinovka,,,,,,,santourinovka,per,per
+40279-1888814-rhodes,,,,,,Greece,rhodes,loc,loc
+40285-1888892-bex,,POI,,,,Belgium,bex,loc,per
+40285-1888892-gilly,,,,,,,gilly,loc,loc
+40342-1890296-delhaze,,,,,,,delhaze,per,per
+40365-1891477-schwann,,,,,,,schwann,per,per
+40378-1891680-beni meskine,,,,,,,beni meskine,per,per
+40509-1897223-emile delhaze,,,,,,,emile delhaze,per,per
+40588-1898613-charles joseph grave,,,,,,,charles joseph grave,per,per
+41548-1924027-van diest,,,,,,,van diest,per,per
+41600-1925765-louvain,Leuven,Commune,Leuven,Flemish Brabant Province,Flanders,Belgium,louvain,loc,loc
+41625-1927125-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+41936-1934349-léon despret,,,,,,,léon despret,per,per
+41936-1934349-wez,,,,,,,wez,loc,loc
+42067-1937265-ardennes,,Sous-région,,,,Belgium,ardennes,loc,loc
+42160-1942222-vanovertvelt,,,,,,,vanovertvelt,per,per
+42413-1950738-obberghen,,,,,,,obberghen,per,per
+42516-1953680-geelhoed,,,,,,,geelhoed,per,per
+42627-1955565-wasseiges,Wasseiges,Section,Grâce-Hollogne,Liège Province,Wallonia,Belgium,wasseiges,loc,loc
+42636-1955895-albertville,,,,,,Democratic Republic of the Congo,albertville,loc,loc
+42636-1955895-congo,,,,,,,congo,loc,loc
+42674-1956119-lesdain,,,,,,,lesdain,per_loc,per_loc
+42913-1961729-diesbecq,,,,,,,diesbecq,per,per
+43057-1966234-barnstein,,,,,,,barnstein,per,per_loc
+43075-1966470-noll,,,,,,,noll,per,per
+43126-1967004-dene,,,,,,,dene,per,per_ambig
+43175-1967818-leo reinelt,,,,,,,leo reinelt,per,per
+43546-1977695-snytselaar,,,,,,,snytselaar,per,per
+43574-1978232-frans theys,,,,,,,frans theys,per,per
+43596-1978936-aesseloos,,,,,,,aesseloos,per,per
+43711-1982935-gilly,Gilly,Section,Charleroi,Hainaut Province,Wallonia,Belgium,gilly,loc,loc
+43777-1984562-jacques debs,,,,,,,jacques debs,per,per
+43848-1988574-stade leuven,Station Leuven,POI,Leuven,Flemish Brabant Province,Flanders,Belgium,stade leuven,loc,loc
+43854-1988667-lacambre,La Cambuse,Section,Rouvroy,Luxembourg Province,Wallonia,Belgium,lacambre,loc,loc
+44221-1999172-konstantinowka,,,,,,,konstantinowka,per,per
+44302-2000260-baze,,,,,,,baze,per,per
+44422-2003035-verhaeren,,,,,,,verhaeren,per,per
+44423-2003113-chamberlain,,,,,,,chamberlain,per,per
+44445-2003619-stade louvaniste,,POI,,Vlaams Brabant,Flanders,Belgium,stade louvaniste,loc,loc
+44528-2005823-debuyst,,,,,,,debuyst,per,per
+44563-2006359-leuven,Leuven,Commune,Leuven,Flemish Brabant Province,Flanders,Belgium,leuven,loc,loc
+44563-2006359-louvain,,,,,,,louvain,loc,loc
+44882-2014165-marolles,Marilles,Section,Orp-Jauche,Walloon Brabant Province,Wallonia,Belgium,marolles,loc,loc
+44937-2015837-meysse,,,,,,France,meysse,loc,loc
+44945-2015925-zualart,,,,,,,zualart,per,per
+45091-2017737-huart chapel,,,,,,,huart chapel,per,per
+45498-2027255-pierre raymond,,,,,,,pierre raymond,per,per
+45524-2027730-ernest nys,,,,,,,ernest nys,per,per
+46109-2042137-severs,,,,,,,severs,per,per
+46111-2042137-van tasselarcher,,,,,,,van tasselarcher,per,per
+46229-2044589-minerva,,POI,Brussels,Brussels Capital,Brussels Capital,Belgium,minerva,loc,loc
+46245-2044749-josephina maes,,,,,,,josephina maes,per,per
+46256-2045081-elixir edgard,,,,,,,elixir edgard,per_ambig,per_ambig
+46313-2046416-pays-bas,,,,,,Netherlands,pays-bas,loc,loc
+46339-2047167-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+46441-2049409-hollande,,,,,,Netherlands,hollande,loc,loc
+46578-2052913-bonnet,,,,,,,bonnet,per,per
+46670-2059106-léopold premier,,,,,,,léopold premier,per,per
+46747-2061377-dony,,,,,,,dony,per,per
+46898-2063977-assenede,Assenede,Commune,Assenede,East Flanders Province,Flanders,Belgium,assenede,loc,loc
+46898-2063977-bassevelde,,,,,,,bassevelde,loc,loc
+46898-2063977-boekhoute,,,,,,,boekhoute,loc,loc
+46898-2063977-oost-eeklo,,,,,,,oost-eeklo,loc,loc
+46898-2063977-bouchaute,,,,,,,bouchaute,loc,loc
+46898-2063977-oost-eeklo,,,,,,,oost-eeklo,loc,loc
+46898-2063977-oost-eeclo,,,,,,,oost-eeclo,loc,loc
+46898-2063977-oost-eeclo,,,,,,,oost-eeclo,loc,loc
+46898-2063977-oost-eecloo,,,,,,,oost-eecloo,loc,loc
+46898-2063977-oost-eecloo,,,,,,,oost-eecloo,loc,loc
+46937-2064866-solomon northup,,,,,,,solomon northup,per,per
+47016-2066234-maurisse,,,,,,,maurisse,per,per
+47276-2072202-roussille,,,,,,,roussille,per,per
+47359-2074635-tombeur,,,,,,,tombeur,per_ambig,per_ambig
+47442-2076982-ormeignies,Ormeignies,Section,Ath,Hainaut Province,Wallonia,Belgium,ormeignies,loc,loc
+47667-2082239-gorkum,,,,,,Netherlands,gorkum,per,per
+48201-2096548-rousies,,,,,,France,rousies,loc,loc
+48355-2111641-babusiaux,,,,,,,babusiaux,per,per
+48550-2118228-stade louvain,,POI,,Vlaams Brabant,Flanders,Belgium,stade louvain,loc,loc
+48729-2125894-mesdagh constant,,,,,,,mesdagh constant,per,per
+49092-2137206-auguste van thournout,,,,,,,auguste van thournout,per,per
+49095-2137206-raymond van thournout,,,,,,,raymond van thournout,per,per
+49167-2140316-wilmot de belva,,,,,,,wilmot de belva,per,per
+49230-2142098-françois châtelet,,,,,,,françois châtelet,per,per
+49472-2146819-fortamps,,,,,,,fortamps,per,per
+49552-2149042-la ferté bernard,,,,,,France,la ferté bernard,loc,loc
+49843-2157001-arthur romain,,,,,,,arthur romain,per,per
+49851-2157117-geeter,,,,,,,geeter,per_ambig,per_ambig
+49884-2157911-stade waremme,,POI,,Liège,Wallonia,Belgium,stade waremme,loc,loc
+50041-2161796-linsel,,,,,,,linsel,per,per
+50044-2161859-schaerbeek,Schaerbeek,Section,Schaarbeek,Bruxelles-Capitale,Brussels Capital,Belgium,schaerbeek,loc,loc
+50190-2167348-valk,,,,,,,valk,ambig,ambig
+50220-2167705-alfred de laet,,,,,,,alfred de laet,per,per
+50223-2167705-buschmann,,,,,,,buschmann,per,per
+50230-2167777-ben tahar,,,,,,,ben tahar,per,per
+50521-2172741-kanagawa,,,,,,Japan,kanagawa,loc,loc
+50550-2174413-edmond peny,,,,,,,edmond peny,per,per
+50644-2176940-natoye,Natoye,Section,Hamois,Namur Province,Wallonia,Belgium,natoye,loc,loc
+50903-2185928-bonnot,,,,,,,bonnot,per,per
+50912-2186547-david oyens,,,,,,,david oyens,per,per
+50937-2188116-gustave gérard,,,,,,,gustave gérard,per,per
+50970-2189120-prosper,,,,,,,prosper,per,per
+50992-2189932-nelis,,,,,,,nelis,per,per
+51005-2190266-genin,,,,,,,genin,per,per
+51005-2190266-bellecourt,,,,,,,bellecourt,loc,loc
+51182-2193696-georges steveny,,,,,,,georges steveny,per,per
+51280-2195899-capon,,,,,,,capon,per,per
+51429-2199356-guerin,,,,,,,guerin,per,per
+51503-2200604-léonie renard,,,,,,,léonie renard,per,per
+51609-2202027-spreutels,,,,,,,spreutels,per,per
+51718-2205590-baesrode,Baasrode,Section,Dendermonde,East Flanders Province,Flanders,Belgium,baesrode,loc,loc
+51804-2207871-minart,,,,,,,minart,ambig,ambig
+51832-2208204-defreyne,,,,,,,defreyne,per,per
+51832-2208204-torhout,,,,,,,torhout,loc,loc
+51834-2208204-defreyne,,,,,,,defreyne,per,per
+51834-2208204-wynendaele,,,,,,,wynendaele,loc,loc
+51845-2208485-proli,,,,,,,proli,per,per
+51888-2209578-berchem,Berchem,Section,Antwerpen,Antwerpen,Flanders,Belgium,berchem,loc,loc
+51888-2209578-coveliers,,,,,,,coveliers,per,per
+51923-2210578-raviart,,,,,,,raviart,per,per
+51936-2211145-ligny,Ligny,Section,Sombreffe,Namur Province,Wallonia,Belgium,ligny,loc,loc
+52045-2212774-fulgenzio,,,,,,,fulgenzio,per,per
+52058-2212877-crick,,,,,,,crick,per_ambig,per_ambig
+52362-2220870-stade heysel,,POI,Brussels,Brussels Capital,Brusseels Capital,Belgium,stade heysel,loc,loc
+52471-2223060-transenter,,,,,,,transenter,per,per
+52513-2223993-hoogendijk,,,,,,,hoogendijk,per,per
+52539-2225567-rotsaert,,,,,,,rotsaert,per,per
+52624-2229092-joeph straus,,,,,,,joeph straus,per,per
+52628-2229093-esneux,Esneux,Commune,Esneux,Liège Province,Wallonia,Belgium,esneux,loc,loc
+52721-2232719-mélidès,,,,,,,mélidès,per,per
+52797-2236559-de coster,,,,,,,de coster,per,per
+52797-2236559-michiels,,,,,,,michiels,per,per
+52846-2237703-prusse,,,,,,Germany,prusse,loc,loc
+53017-2241140-kuulkers,,,,,,,kuulkers,per,per
+53473-2255473-reinertsen,,,,,,,reinertsen,per,per
+53473-2255473-congo,,,,,,,congo,loc,loc
+53543-2258250-square marguerite,,,,,,France,square marguerite,loc,loc
+53579-2259942-vandermaelen,,,,,,,vandermaelen,per,per
+54043-2280067-gilze,,,,,,Netherlands,gilze,loc,loc
+54073-2280657-blavier,,,,,,,blavier,per,per
+54073-2280657-wodecq,,,,,,,wodecq,loc,loc
+54145-2284730-bruxelles,Brussels,Commune,Brussels,Bruxelles-Capitale,Brussels Capital,Belgium,bruxelles,loc,loc
+54327-2290211-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+,,,,,,,,loc,
+54466-2297218-eglise saint paul,Eglise Saint-Hubert,POI,Watermael-Boitsfort,Bruxelles-Capitale,Brussels Capital,Belgium,eglise saint paul,loc,loc
+54466-2297218-corvilain,,,,,,,corvilain,per,per
+54466-2297218-anvers,,,,,,,anvers,loc,loc
+54472-2297218-sint pauluskerk,,,,,,Netherlands,sint pauluskerk,loc,loc
+54492-2298253-cinema mayeur,,,,,,,cinema mayeur,loc,loc
+54614-2303455-arthur focant,,,,,,,arthur focant,per,per
+54795-2310363-brackelaire,,,,,,,brackelaire,per,per
+54824-2312048-alfons plettinckx,,,,,,,alfons plettinckx,per,per
+54841-2312233-daggelinckx,,,,,,,daggelinckx,per,per
+54939-2316075-kattekasteel,,POI,Anderlecht,Brussels Capital,Brussels Capital,Belgium,kattekasteel,loc,loc
+54989-2318162-pietro,,,,,,,pietro,per,per
+55238-2324611-beecken,,,,,,,beecken,per,per
+55422-2329692-eugénie,,,,,,,eugénie,per,per
+55582-2336595-per,,,,,,,per,per,per
+55620-2337969-dutrieux,,,,,,,dutrieux,per,per
+55641-2338110-de jantk,,,,,,,de jantk,ambig,ambig
+55767-2342567-bocholt,Bocholt,Commune,Bocholt,Limburg Province,Flanders,Belgium,bocholt,loc,loc
+55782-2343159-meeus,,,,,,,meeus,per,per
+55854-2346165-scott,,,,,,,scott,per,per
+55854-2346165-uccle,,,,,,,uccle,loc,loc
+56004-2352277-mage,,,,,,,mage,per,per
+56118-2356859-hertogenwald,Hertogenwald,Forêt,,Liège Province,Wallonia,Belgium,hertogenwald,loc,loc
+56171-2358393-massart,,,,,,,massart,per,per
+56187-2358742-perrin,,,,,,,perrin,per,per
+56265-2360615-lorand,,,,,,,lorand,per,per
+56361-2362182-boone,,,,,,,boone,per_loc,per_loc
+56366-2362430-rogier,,,,,,,rogier,per,per
+56595-2367071-coosemans,,,,,,,coosemans,per,per
+,,,,,,,,per,
+56688-2370579-bodenbroeck,,,,,,,bodenbroeck,per,per
+56773-2373260-nivelles,Nivelles,Commune,Nivelles,Walloon Brabant Province,Wallonia,Belgium,nivelles,loc,loc
+56773-2373260-borremans,,,,,,,borremans,per,per
+56794-2374428-amanua,,,,,,,amanua,per_ambig,per_ambig
+56825-2375494-sturkoff,,,,,,,sturkoff,ambig,ambig
+56941-2378147-karel appel,,,,,,,karel appel,per,per
+57233-2383534-george sand,,,,,,,george sand,per,per
+57298-2384612-théâtre de la monnaie,,,,,,,théâtre de la monnaie,loc,loc
+57525-2391464-neirinckx,,,,,,,neirinckx,per,per
+57719-2394562-labis,,,,,,,labis,per,per
+57795-2396326-neder over heembeek,Neder-Over-Heembeek,Section,Brussels,Bruxelles-Capitale,Brussels Capital,Belgium,neder over heembeek,loc,loc
+58002-2402456-henriette,,,,,,,henriette,per,per
+58063-2404425-jurriaanse,,,,,,,jurriaanse,per,per
+58489-2417859-ypres,Ieper,Commune,Ieper,West Flanders Province,Flanders,Belgium,ypres,loc,loc
+58548-2418740-tistaert,,,,,,,tistaert,per,per
+58549-2418860-finch,,,,,,,finch,per,per
+58741-2422215-koopman,,,,,,,koopman,per,per
+58792-2423864-blaise distel,,,,,,,blaise distel,per,per
+58852-2425443-théophile delbecq,,,,,,,théophile delbecq,per,per
+58924-2426769-me*elput,,,,,,,me*elput,per_ambig,per_ambig
+58944-2427386-françois favier,,,,,,,françois favier,per,per
+59034-2430597-elet,,,,,,,elet,per,per
+59073-2431929-daens,,,,,,,daens,per,per
+59073-2431929-aalst,,,,,,,aalst,loc,loc
+59080-2432354-fix,,,,,,,fix,per,per
+59177-2437270-landuyt,,,,,,,landuyt,per,per
+59338-2443724-morat,,,,,,,morat,per_loc,per_loc
+59338-2443724-congo,,,,,,,congo,loc,loc
+59662-2453651-merkpin,,,,,,,merkpin,per,per
+59663-2453651-vandevelde,,,,,,,vandevelde,per,per
+59681-2454332-charles francotte,,,,,,,charles francotte,per,per
+59986-2466846-monsaingeon,,,,,,,monsaingeon,per,per
+60133-2470323-floriffoux,Floriffoux,Section,Floreffe,Namur Province,Wallonia,Belgium,floriffoux,loc,loc
+60191-2470829-keerbergen,Keerbergen,Commune,Keerbergen,Flemish Brabant Province,Flanders,Belgium,keerbergen,loc,loc
+60351-2476039-loutzkoy,,,,,,,loutzkoy,per,per
+60360-2476445-devos,,,,,,,devos,per,per
+60360-2476445-sint denijs,,,,,,,sint denijs,loc,loc
+60417-2478309-tildonck,,,,,,,tildonck,per_loc,per_loc
+60568-2483231-calmeyn,,,,,,,calmeyn,per,per
+60568-2483231-congo,,,,,,,congo,loc,loc
+60915-2496931-sohie,,,,,,,sohie,per_ambig,per_ambig
+60994-2499232-tonglet,,,,,,,tonglet,per,per
+60994-2499232-auvelais,,,,,,,auvelais,loc,loc
+61000-2499877-cruvelli,,,,,,,cruvelli,per,per
+61019-2501263-rosa van tassel,,,,,,,rosa van tassel,per,per
+61237-2512641-kalisch,,,,,,,kalisch,per,per
+61300-2514899-paulet,,,,,,,paulet,per,per
+61348-2515406-callataÿ,,,,,,,callataÿ,per,per
+61369-2516585-kruger,,,,,,,kruger,per,per
+61386-2518126-itterswiller,,,,,,France,itterswiller,loc,loc
+61403-2519804-antwerpen,Antwerpen,Commune,Antwerpen,Antwerpen,Flanders,Belgium,antwerpen,loc,loc
+61420-2520867-jaobs,,,,,,,jaobs,per,per
+61426-2521235-real madrid,,,,,,Spain,real madrid,loc,loc
+61433-2521527-sternberg,,,,,,,sternberg,per,per
+61708-2536020-feneur,Feneur,Section,Dalhem,Liège Province,Wallonia,Belgium,feneur,loc,loc
+61802-2540432-louis allaer,,,,,,,louis allaer,per,per
+61902-2544102-catherine defossez,,,,,,,catherine defossez,per,per
+61907-2544162-pirard,,,,,,,pirard,per,per
+61956-2545070-wilhelmus ambrosius hecke,,,,,,,wilhelmus ambrosius hecke,per,per
+61984-2545519-seynave,,,,,,,seynave,per,per
+61984-2545519-loenhout,,,,,,,loenhout,loc,loc
+62225-2557045-cinema lux,,,,,,,cinema lux,loc,loc
+62250-2557864-raspoutin,,,,,,,raspoutin,per,per
+62268-2558124-beriot,,,,,,,beriot,per,per
+62268-2558124-ixelles,,,,,,,ixelles,loc,loc
+62368-2564004-ferme wautier,,,,,,,ferme wautier,loc,loc
+62422-2565119-victor alter,,,,,,,victor alter,per,per
+62448-2565976-szymanski,,,,,,,szymanski,per,per
+62779-2579086-heger,,,,,,,heger,per,per
+62839-2582822-horta,,POI,Brussels,Brussels Capital,Brussels Capital,Belgium,horta,loc,loc
+62839-2582822-centraal station,,,,,,,centraal station,loc,loc
+63052-2592649-hooglaert,Hoeilaart,Commune,Hoeilaart,Flemish Brabant Province,Flanders,Belgium,hooglaert,loc,loc
+63067-2593096-greef,,,,,,,greef,per,per
+63116-2596136-eveline le maire,,,,,,,eveline le maire,per,per
+63230-2599865-wibrin,Wibrin,Section,Houffalize,Luxembourg Province,Wallonia,Belgium,wibrin,loc,loc
+63230-2599865-liège,,,,,,,liège,loc,loc
+63304-2604655-antonia vandendriessche,,,,,,,antonia vandendriessche,per,per
+63693-2617100-moresnet,Moresnet,Section,Plombières,Liège Province,Wallonia,Belgium,moresnet,loc,loc
+63941-2622783-congo,,,,,,Democratic Republic of the Congo,congo,loc,loc
+63941-2622783-nederlands-indie,,,,,,,nederlands-indie,loc,loc
+63953-2623141-hcoylaert,Hoeilaart,Commune,Hoeilaart,Vlaams Brabant,Flanders,Belgium,hcoylaert,loc,loc
+64098-2627657-bohme,,,,,,,bohme,per,per
+64241-2630724-helene vanhoutte,,,,,,,helene vanhoutte,per,per
+64302-2632039-louyest,,,,,,,louyest,per,per
+64462-2637630-huybrechts-willems,,,,,,,huybrechts-willems,per,per
+64535-2639255-hippolyte guillery,,,,,,,hippolyte guillery,per,per
+64553-2639730-etienne de breuck,,,,,,,etienne de breuck,per,per
+64598-2641035-overrvssche,Overijse,Commune,Overijse,Flemish Brabant Province,Flanders,Belgium,overrvssche,loc,loc
+64614-2641718-franck,,,,,,,franck,per,per
+64626-2642572-overysschf,Overijse,Commune,Overijse,Flemish Brabant Province,Flanders,Belgium,overysschf,loc,loc
+64735-2644541-smvberg,,,,,,?,smvberg,loc,loc
+64904-2648934-adeline pollet,,,,,,,adeline pollet,per,per
+65193-2657738-felicitas van der linden,,,,,,,felicitas van der linden,per,per
+65295-2662147-ysaye,,,,,,,ysaye,per,per
+65296-2662147-ysaye,,,,,,,ysaye,per,per
+65390-2664134-dadizele,,,,,,,dadizele,loc,loc
+65536-2670860-ziegenberg,,,,,,Germany,ziegenberg,loc,loc
+65620-2674865-aarschot,Aarschot,Commune,Aarschot,Flemish Brabant Province,Flanders,Belgium,aarschot,loc,loc
+65637-2675617-martin cuypers,,,,,,,martin cuypers,per,per
+65637-2675617-liège,,,,,,,liège,loc,loc
+65878-2681690-bogaert leopold,,,,,,,bogaert leopold,per,per
+66329-2703688-van den broecke polidoor,,,,,,,van den broecke polidoor,per,per
+66549-2710336-gentbrugge,Gentbrugge,Section,Gent,East Flanders Province,Flanders,Belgium,gentbrugge,loc,loc
+66623-2711790-jette,,,,,,,jette,loc,loc
+66766-2715917-quiroga,,,,,,,quiroga,per,per
+66933-2717923-nichelput,,,,,,,nichelput,per,per
+67029-2721529-cloots,,,,,,,cloots,per,per
+67230-2727747-hambursin,,,,,,,hambursin,per,per
+67238-2728125-chili,,,,,,Chile,chili,loc,loc
+67840-2746410-sint-pieters-leeuw,,Commune,,,,Belgium,sint-pieters-leeuw,loc,loc
+67993-2751645-morlanwelz,Morlanwelz-Mariemont,Section,Morlanwelz,Hainaut Province,Wallonia,Belgium,morlanwelz,loc,loc
+67993-2751645-warocque,,,,,,,warocque,per,per
+68020-2752852-aalst,Aalst,Commune,Aalst,East Flanders Province,Flanders,Belgium,aalst,loc,loc
+68044-2754796-china,,,,,,People's Republic of China,china,loc,loc
+68044-2754796-japan,,,,,,,japan,loc,loc
+68044-2754796-chine,,,,,,,chine,loc,loc
+68044-2754796-japon,,,,,,,japon,loc,loc
+68047-2755220-joost,,,,,,,joost,per,per
+68218-2758405-champêtre,,,,,,,champêtre,,
+68218-2758405-nivelles,,,,,,,nivelles,loc,
+68221-2758405-nivelles,Nivelles,Commune,Nivelles,Walloon Brabant Province,Wallonia,Belgium,nivelles,loc,
+68442-2766226-attenrode wever,Attenrode,Section,Glabbeek,Flemish Brabant Province,Flanders,Belgium,attenrode wever,loc,loc
+68478-2767635-cuba,,,,,,Cuba,cuba,loc,loc
+68624-2773357-graindorge,,,,,,,graindorge,per,per
+68694-2775307-hjalm,,,,,,,hjalm,per,per
+68694-2775307-congo,,,,,,,congo,loc,loc
+68918-2782073-middelkerke,Middelkerke,Commune,Middelkerke,West Flanders Province,Flanders,Belgium,middelkerke,loc,loc
+69113-2790925-andenne,Andenne,Commune,Andenne,Namur Province,Wallonia,Belgium,andenne,loc,loc
+69113-2790925-eghezee,,,,,,,eghezee,loc,loc
+69294-2797018-lescuyer albert,,,,,,,lescuyer albert,per,per
+69296-2797018-lescuyer,,,,,,,lescuyer,per,per
+69296-2797018-regnault,,,,,,,regnault,per,per
+69296-2797018-zulmé,,,,,,,zulmé,per,per
+69317-2797751-meerbeke,Meerbeke,Section,Ninove,East Flanders Province,Flanders,Belgium,meerbeke,loc,loc
+69385-2799983-ryckeboer,,,,,,,ryckeboer,per,per
+69414-2800498-despezel,,,,,,,despezel,per,per
+69465-2802178-belgië,Kingdom of Belgium,Pays,,,,Belgium,belgië,loc,loc
+69494-2803505-cinema prins albert,,,,,,,cinema prins albert,loc,loc
+69521-2804344-carl grün,,,,,,,carl grün,per,per
+69521-2804344-verviers,,,,,,,verviers,loc,loc
+69565-2804983-drogenbosch,Drogenbos,Commune,Drogenbos,Flemish Brabant Province,Flanders,Belgium,drogenbosch,loc,loc
+69685-2808781-tilff,Tilff,Section,Esneux,Liège Province,Wallonia,Belgium,tilff,loc,loc
+69747-2810584-borinage,Borinage,Sous-région,,Hainaut Province,Wallonia,Belgium,borinage,loc,loc
+69768-2811593-peersegaele,,,,,,,peersegaele,per,per
+69916-2817051-lerm,,,,,,,lerm,per_loc,per_loc
+70254-2828145-butler,,,,,,,butler,per_ambig,per_ambig
+70349-2832891-brondesbury,,,,,,United Kingdom,brondesbury,loc,loc
+70380-2833796-steurs alphonse,,,,,,,steurs alphonse,per,per
+70502-2836236-jeannette zondervan,,,,,,,jeannette zondervan,per,per
+70526-2836246-fernand khnopff,,,,,,,fernand khnopff,per,per
+70913-2844131-chateau du fy,Château Le Fy,POI,Esneux,Liège,Wallonia,Belgium,chateau du fy,loc,loc
+70924-2844223-kiel,,,,,,Germany,kiel,loc,loc
+,,,,,,,,loc,
+71180-2848450-liedholm,,,,,,,liedholm,per,per
+71180-2848450-congo,,,,,,,congo,loc,loc
+71222-2850184-charlotte de belgique,,,,,,,charlotte de belgique,per,per
+71259-2850632-berick,,,,,,,berick,per_ambig,per_ambig
+71341-2852514-braine-le-comte,,,,,,,braine-le-comte,loc,loc
+71448-2855847-lilja,,,,,,,lilja,ambig,ambig
+71448-2855847-congo,,,,,,,congo,loc,loc
+71454-2855878-oolen,,,,,,,oolen,per,per
+71459-2856247-dieudonne,,,,,,,dieudonne,per,per
+71488-2857340-sebillot,,,,,,,sebillot,per,per
+71568-2858812-jacco,Uccle,POI,Uccle,Brussels Capital,Brussels Capital,Belgium,jacco,loc,loc
+71643-2861710-dendermonde,Dendermonde,Commune,Dendermonde,East Flanders Province,Flanders,Belgium,dendermonde,loc,loc
+71701-2864057-morlanwelz,Morlanwelz-Mariemont,Section,Morlanwelz,Hainaut Province,Wallonia,Belgium,morlanwelz,loc,loc
+71764-2865708-china,,,,,,People's Republic of China,china,loc,loc
+71764-2865708-japan,,,,,,,japan,loc,loc
+71884-2868641-petronille,,,,,,,petronille,per,per
+72149-2877405-afrique,,,,,,Continent,afrique,loc,loc
+72374-2884491-nocquet,,,,,,,nocquet,per,per
+72436-2885744-japan,,,,,,Japan,japan,loc,loc
+72436-2885744-china,,,,,,,china,loc,loc
+72482-2887330-garin,,,,,,,garin,per,per
+72615-2891197-charles scharrès,,,,,,,charles scharrès,per,per
+72810-2894716-merbes,Merkem,Section,Houthulst,West Flanders Province,Flanders,Belgium,merbes,loc,loc
+73078-2901093-blaesheim,,,,,,France,blaesheim,loc,loc
+73105-2901163-tokio,,,,,,Japan,tokio,loc,loc
+73105-2901163-pékin,,,,,,,pékin,loc,loc
+73137-2901541-la hestre,,,,,,,la hestre,loc,loc
+73238-2903879-chine,,,,,,People's Republic of China,chine,loc,loc
+73238-2903879-japon,,,,,,,japon,loc,loc
+73324-2906967-mons,Mons,Commune,Mons,Hainaut Province,Wallonia,Belgium,mons,loc,loc
+73324-2906967-manage,,,,,,,manage,loc,loc
+73345-2907789-eygenbilsen,,Section,,,,Belgium,eygenbilsen,loc,loc
+73367-2908488-magidson,,,,,,,magidson,per,per
+73460-2910396-lemonnier,,,,,,,lemonnier,per,per
+73579-2915126-peel,,,,,,,peel,per_loc,per_loc
+73912-2924746-verdbois,,,,,,,verdbois,per,per
+73941-2925042-charlie,,,,,,,charlie,per,per
+74214-2932285-torhout,Torhout,Commune,Torhout,West Flanders Province,Flanders,Belgium,torhout,loc,loc
+74219-2932515-chine,,,,,,People's Republic of China,chine,loc,loc
+74445-2937996-dargent,,,,,,,dargent,per,per
+74451-2938148-samuelsson,,,,,,,samuelsson,per,per
+74451-2938148-congo,,,,,,,congo,loc,loc
+74463-2938403-nivelles,Nivelles,Commune,Nivelles,Walloon Brabant Province,Wallonia,Belgium,nivelles,loc,loc
+74463-2938403-thines,,,,,,,thines,loc,loc
+74463-2938403-monstreux,,,,,,,monstreux,loc,loc
+74463-2938403-bornival,,,,,,,bornival,loc,loc
+74463-2938403-baulers,,,,,,,baulers,loc,loc
+74728-2944773-deleau vicq,,,,,,,deleau vicq,per,per
+74822-2947204-china,,,,,,People's Republic of China,china,loc,loc
+75189-2954419-pouyes,,,,,,,pouyes,per,per
+75738-2965700-kallenberg,,,,,,,kallenberg,per,per
+75756-2966189-mohr,,,,,,,mohr,per,per
+75830-2967236-sneyers,,,,,,,sneyers,per,per
+75887-2969463-olga benario,,,,,,,olga benario,per,per
+76195-2979542-oosterzeele,Oosterzele,Commune,Oosterzele,East Flanders Province,Flanders,Belgium,oosterzeele,loc,loc
+76378-2984730-lancaster,,,,,,,lancaster,per_loc,per_loc
+76449-2987711-winter,,,,,,,winter,per,per
+76481-2989110-oudegem,,Section,,,,Belgium,oudegem,loc,loc
+76546-2991223-dehmelhaus,,,,,,,dehmelhaus,per_ambig,per_ambig
+76662-2994666-pauline marcelle,,,,,,,pauline marcelle,per,per
+76951-3006850-antrop,,,,,,,antrop,per,per
+77674-3028122-wancour,,,,,,,wancour,per,per
+77676-3028122-wancours,,,,,,,wancours,per,per
+77689-3028714-coetermans,,,,,,,coetermans,per,per
+77709-3029109-léon van der mersch,,,,,,,léon van der mersch,per,per
+77821-3033830-champêtre,,,,,,,champêtre,,
+77821-3033830-thines,,,,,,,thines,loc,
+77837-3034030-etterbeek,Etterbeek,Commune,Etterbeek,Bruxelles-Capitale,Brussels Capital,Belgium,etterbeek,loc,loc
+77932-3036689-télesphore george,,,,,,,télesphore george,per,per
+77943-3037559-rené lachat,,,,,,,rené lachat,per,per
+77944-3037559-sohie,,,,,,,sohie,per,per
+77944-3037559-nieuwkerke,,,,,,,nieuwkerke,loc,loc
+78255-3048129-artistic pathe,,,,,,,artistic pathe,loc,loc
+78284-3048877-evregnies,Evregnies,Section,Estaimpuis,Hainaut Province,Wallonia,Belgium,evregnies,loc,loc
+78285-3048877-stievenart,,,,,,,stievenart,per,per
+78319-3050103-mainvault,Mainvault,Section,Ath,Hainaut Province,Wallonia,Belgium,mainvault,loc,loc
+78415-3053683-spina,,,,,,,spina,per,per
+78473-3055305-cartier,,,,,,,cartier,per,per
+78559-3058643-velaines,Velaines,Section,Celles,Hainaut Province,Wallonia,Belgium,velaines,loc,loc
+78667-3061584-urbanie lecot,,,,,,,urbanie lecot,per,per
+78700-3061933-desribeu,,,,,,,desribeu,per,per
+79269-3076681-verdcourt,,,,,,,verdcourt,per,per
+79269-3076681-barchon,,,,,,,barchon,loc,loc
+79362-3079875-mallinckrodt,,,,,,,mallinckrodt,per_loc,per_loc
+79419-3083169-gent,Gent,Commune,Gent,East Flanders Province,Flanders,Belgium,gent,loc,loc
+79576-3086478-moutier saint maur,,,,,,France,moutier saint maur,loc,loc
+79579-3086478-moutiez saint-maur,,,,,,France,moutiez saint-maur,loc,loc
+79847-3093177-géneral jacques,,POI,,,,Belgium,géneral jacques,per_loc,per_loc
+79857-3093209-marroijen,,,,,,,marroijen,per_ambig,per_ambig
+79884-3093908-bessarabie,,,,,,Romania,bessarabie,loc,loc
+79947-3095678-anvers,,,,,,France,anvers,loc,loc
+80143-3104177-delville,,,,,,,delville,per,per
+80208-3105773-allard camille,,,,,,,allard camille,per,per
+80314-3109327-antwerp,Antwerpen,Commune,Antwerpen,Antwerpen,Flanders,Belgium,antwerp,loc,loc
+80340-3110198-merbes- sainte- marie,Merbes-Sainte-Marie,Section,Merbes-le-Château,Hainaut Province,Wallonia,Belgium,merbes- sainte- marie,loc,loc
+80443-3113027-vilvoorde,Vilvoorde,Commune,Vilvoorde,Flemish Brabant Province,Flanders,Belgium,vilvoorde,loc,loc
+80906-3121742-stamler,,,,,,,stamler,per,per
+81079-3129369-lembeek,Lembeek,Section,Halle,Flemish Brabant Province,Flanders,Belgium,lembeek,loc,loc
+81080-3129526-chine,,,,,,People's Republic of China,chine,loc,loc
+81080-3129526-japon,,,,,,,japon,loc,loc
+81210-3133980-eghezee,Éghezée,Commune,Éghezée,Namur Province,Wallonia,Belgium,eghezee,loc,loc
+81596-3149995-denis de visser,,,,,,,denis de visser,per,per
+81609-3149995-remi boeyen,,,,,,,remi boeyen,per,per
+81625-3151549-hetten montalembert,,,,,,,hetten montalembert,per,per
+81664-3152592-kuyper,,,,,,,kuyper,per,per
+81822-3158981-thea silten,,,,,,,thea silten,per,per
+81881-3161269-kuyper,,,,,,,kuyper,per,per
+81881-3161269-chamberlain,,,,,,,chamberlain,per,per
+82026-3167234-carnieres,Carnières,Section,Morlanwelz,Hainaut Province,Wallonia,Belgium,carnieres,loc,loc
+82055-3169391-malpertuis,,,,,,Netherlands,malpertuis,loc,loc
+82142-3172384-edmond vandenbossche,,,,,,,edmond vandenbossche,per,per
+82352-3182301-tolkovski,,,,,,,tolkovski,per,per
+82354-3182301-adolphe fischer,,,,,,,adolphe fischer,per,per
+82493-3184031-marie-claire gosselin,,,,,,,marie-claire gosselin,per,per
+82537-3184448-daniël sternefeld,,,,,,,daniël sternefeld,per,per
+82609-3185817-namur,Namur,Commune,Namur,Namur Province,Wallonia,Belgium,namur,loc,loc
+82757-3189977-scaufflaire,,,,,,,scaufflaire,per,per
+82765-3190809-dauw,,,,,,,dauw,per,per
+82935-3198454-massys,,,,,,,massys,ambig,ambig
+83085-3203810-dottignies,Dottignies,Section,Mouscron,Hainaut Province,Wallonia,Belgium,dottignies,loc,loc
+83334-3233952-surkeyn,,,,,,,surkeyn,per,per
+83387-3235826-godon,,,,,,,godon,per,per
+83443-3237810-van rossum,,,,,,,van rossum,per,per
+83459-3238387-wevelghem,Wevelgem,Commune,Wevelgem,West Flanders Province,Flanders,Belgium,wevelghem,loc,loc
+83493-3239614-seraphin van den hoeck,,,,,,,seraphin van den hoeck,per,per
+,,,,,,,,per_ambig,per_ambig
+83777-3246447-keogh,,,,,,,keogh,per,per
+83777-3246447-polley,,,,,,,polley,per,per

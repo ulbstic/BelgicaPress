@@ -1,0 +1,12 @@
+https://www.wikidata.org/w/api.php?format=json&action=wbgetentities&props=sitelinks|descriptions&ids=Q503710
+
+problèmes : forte homonymie, parfois entre noms de communes, mais très souvent entre noms de lieux (Stuyvenberg)
+
+Homonymie tout aussi forte entre certains noms de lieux belges et néerlandais
+
+Le script python apermis d'extraire 2628 noms de lieux unique. une fois uniformisés (aalst fusionné avec alost), on obtient 2141 noms de lieux (qui peuvent pour certains désigner plusiuers lieux différents, comme saint-Nicolas). Si on essaye de les matcher dans Wikidata avec la propriété "administrative territorial entity of Belgium", on obtient 1156 matches directs. Parmis les non match : https://www.wikidata.org/wiki/Q2842792 (quartier)
+
+si on tente de matcher les 985 restants avec la simple propriété "country:belgium", à peine deux de plus sont matchés automatiquement...
+
+Le match avec "Q56061" (administrative territorial entity) and belgium donne au final 1166 matches. Note : Certians lieux ne mentionnent pas de page wikipedia laors qu'elle existe : https://www.wikidata.org/wiki/Q28593321 (baraque de fraiture) L'un des problèmes fréquent qui interdit un matching automatique est l'homonymie entre provinces, arrondissements et noms de villes (Liège, Anvers).
+
