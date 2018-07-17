@@ -9,7 +9,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 
 def get_sparql(value):
     if value is not None:
-        sparql = SPARQLWrapper("http://fr.dbpedia.org/sparql")
+        sparql = SPARQLWrapper("http://dbpedia.org/sparql")
         sparql.setQuery("""
         SELECT DISTINCT ?entity ?score1 ?type
             WHERE{
@@ -39,4 +39,4 @@ def get_sparql(value):
 
     return " ".join(liste)
 
-print(get_sparql("wynendaele"))
+print(get_sparql("rue de la braie"))

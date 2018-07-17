@@ -13,8 +13,7 @@ Created on Wed Jul 12 21:24:12 2017
 """
 
 #with open(r"C:\Users\Boulot\Desktop\population-communes-belges.tsv") as f:
-#    communes = f.readlines()
-        
+#    communes = f.readlines()        
 
 import requests
 import time
@@ -146,8 +145,8 @@ def get_wikipedia_page(value):
     except:
         return None 
 
-#print(get_wikipedia_page("braine-le-comte"))
-#print(get_wikipedia_page2("braine-le-comte"))
+print(get_wikipedia_page("braine-le-comte"))
+print(get_wikipedia_page2("braine-le-comte"))
                
 def get_wikipedia_element(ville):
     try:

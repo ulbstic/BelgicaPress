@@ -13,7 +13,7 @@ def query(value, lang):
             PREFIX schema: <http://schema.org/>
             SELECT DISTINCT ?item ?article ?itemDescription WHERE {
             ?item rdfs:label ?itemLabel
-            FILTER(CONTAINS(LCASE(?itemLabel), "%s"@%s)).
+            FILTER(CONTAINS(LCASE(?itemLabel), " %s "@%s)).
             ?item wdt:P17 wd:Q31.
             ?article schema:about ?item.
             ?article schema:isPartOf <https://%s.wikipedia.org/>.

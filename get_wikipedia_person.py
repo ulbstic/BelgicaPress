@@ -6,27 +6,37 @@ Created on Tue Jul 18 23:17:21 2017
 """
 
 import wikipedia
-import difflib
+from fuzzywuzzy import fuzz
 import warnings
 import re
 warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
+
 def get_wikipedia(value):
-    for lang in ["fr", "nl", "en"]:
+    liste = []
+    for lang in ["fr"]:
         wikipedia.set_lang(lang)
         try:
-            w = wikipedia.page(value, auto_suggest=True)
-            score= difflib.SequenceMatcher(None, value, re.sub(r"\(.+\)", "", w.title)).ratio()
-            if score >= 0.7:
-                return w.title + "||" + w.url + "||" + ":::".join(wikipedia.WikipediaPage(w.title).categories)
-            elif score >= 0.5:
-                return "Possibilité: " + w.title + "||" + w.url + "||" + ":::".join(wikipedia.WikipediaPage(w.title).categories)
+            w = wikipedia.page(value)
+
+            score = fuzz.ratio(value, w.title)
+            print(score)
+            if score >= 90:
+                print(score)
+                liste.append("Probable: " + w.title + "||" + w.url + "||" +
+                             ":::".join(wikipedia.WikipediaPage(w.title).categories))
+            elif score >= 50:
+                liste.append("Possibilité: " + w.title + "||" + w.url + "||" +
+                             ":::".join(wikipedia.WikipediaPage(w.title).categories))
+            else:
+                liste.append("Improbable: " + w.title + "||" + w.url + "||" +
+                             ":::".join(wikipedia.WikipediaPage(w.title).categories))
         except wikipedia.exceptions.PageError:
             continue
         except wikipedia.exceptions.DisambiguationError as e:
             w = e.options[0]
-            return w  + "||https://fr.wikipedia.org/wiki/" + w + " ::: ambigu "
-        
+            return w + "||https://fr.wikipedia.org/wiki/" + w + " ::: ambigu "
+    return liste
 
-    
-print(get_wikipedia("carnieres"))
+
+print(get_wikipedia("ru de la loi"))
