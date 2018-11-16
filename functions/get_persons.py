@@ -8,7 +8,7 @@ Ceci est un script temporaire.
 from unidecode import unidecode
 import re
 
-with open(r"C:\Users\Boulot\Desktop\prenoms.tsv", 'r', encoding="utf8") as f:
+with open(r"..\data\prenoms.txt", 'r', encoding="utf8") as f:
     prenoms = set([name.strip().lower() for name in f])
     
 #with open(r"C:\Users\Boulot\Desktop\Names.tsv", 'r', encoding="utf8") as f:
@@ -51,4 +51,4 @@ def get_personnes(value):
     liste = [x for x in liste if not (x in seen or seen_add(x))]
     return " ".join(liste)
 
-print(get_personnes("Gill Dupont"))
+print(get_personnes("faust, camille laurent celestin (alias mauclair, camille ; 1872-1945)"))
